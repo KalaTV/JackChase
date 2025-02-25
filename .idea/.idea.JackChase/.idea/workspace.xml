@@ -122,8 +122,14 @@
   "keyToString": {
     "git-widget-placeholder": "Léo",
     "node.js.selected.package.tslint": "(autodetect)"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;Léo&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+>>>>>>> cc
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
 >>>>>>> dev 1
     <servers />
