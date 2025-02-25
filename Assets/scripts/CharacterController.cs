@@ -121,6 +121,18 @@ public class CharacterController : MonoBehaviour
         if (!isGrounded && Input.GetKey(glideKey)) 
         {
             rb.gravityScale = glideGravity;
+            rb.velocity = new Vector2(rb.velocity.x, Mathf.Max(rb.velocity.y, -2f));
+        }
+        else
+        {
+            rb.gravityScale = normalGravity;
+        }
+    }
+    void Glide()
+    {
+        if (!isGrounded && Input.GetKey(glideKey)) 
+        {
+            rb.gravityScale = glideGravity;
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -2f));
         }
         else
