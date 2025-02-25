@@ -10,7 +10,9 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private float wallSlidingSpeed = 2f;
     [SerializeField] private float wallJumpForce = 10f;
     [SerializeField] private float glideGravity = 2f;
-    [SerializeField] private float normalGravity = 5f; 
+    [SerializeField] private float normalGravity = 5f;
+    [SerializeField] private float maxGrappleDistance = 10f;
+    [SerializeField] private float grappleSpeed = 10f; 
     [SerializeField] private KeyCode glideKey = KeyCode.LeftShift; 
     [SerializeField] private Vector2 wallJumpDirection = new Vector2(1.5f, 1f);
     [SerializeField] private LayerMask groundLayer;
@@ -19,12 +21,15 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private bool isGrounded;
     [SerializeField] private bool isWallSliding;
     public LayerMask layerMask;
-
+    [SerializeField] DistanceJoint2D joint;
+    private Vector2 grapplePoint;
+    private bool isGrappling = false;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         wallJumpDirection.Normalize();
+        joint.enabled = false;
     }
 
     private void Update()
@@ -35,8 +40,57 @@ public class CharacterController : MonoBehaviour
         CheckAround();
         Wallslide();
         Break();
+        if (Input.GetMouseButtonDown(0))
+        {
+            TryGrapple();
+        }
+        if (Input.GetMouseButtonUp(0))
+        {
+            ReleaseGrapple();
+        }
+
+        if (isGrappling)
+        {
+            MoveTowardsGrapplePoint(); 
+        }
     }
 
+    private void TryGrapple()
+    {
+        Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction.normalized, maxGrappleDistance, groundLayer);
+        if (hit.collider != null)
+        {
+            grapplePoint = hit.point;
+            joint.connectedAnchor = grapplePoint; 
+            joint.distance = Vector2.Distance(transform.position, grapplePoint);
+            joint.enabled = true;
+            isGrappling = true;
+
+            
+            rb.gravityScale = 0f;
+        }
+    }
+    void ReleaseGrapple()
+    {
+        joint.enabled = false; 
+        isGrappling = false; 
+       
+        rb.gravityScale = 1f;
+    }
+
+    void MoveTowardsGrapplePoint()
+    {
+       
+        Vector2 moveDirection = (grapplePoint - (Vector2)transform.position).normalized;
+        rb.linearVelocity = moveDirection * grappleSpeed;
+
+        
+        if (Vector2.Distance(transform.position, grapplePoint) < 0.1f)
+        {
+            ReleaseGrapple(); 
+        }
+    }
     private void Move()
     {
         float moveInput = Input.GetAxis("Horizontal") * speed;
@@ -67,7 +121,7 @@ public class CharacterController : MonoBehaviour
         if (!isGrounded && Input.GetKey(glideKey)) 
         {
             rb.gravityScale = glideGravity;
-            rb.velocity = new Vector2(rb.velocity.x, Mathf.Max(rb.velocity.y, -2f));
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -2f));
         }
         else
         {

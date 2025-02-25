@@ -13,6 +13,8 @@
 =======
     <list default="true" id="972c09f8-3732-49e3-b61b-71cca70a5bed" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JackChase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JackChase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/asset/New Physics Material 2D.physicsMaterial2D" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/asset/New Physics Material 2D.physicsMaterial2D.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CharacterController.cs" afterDir="false" />
     </list>
 >>>>>>> dev 1
@@ -24,6 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< refs/remotes/origin/Tom
 <<<<<<< refs/remotes/origin/Tom
 <<<<<<< Updated upstream
   <component name="ProjectColorInfo">{
@@ -140,8 +143,14 @@
   "keyToString": {
     "git-widget-placeholder": "Léo",
     "node.js.selected.package.tslint": "(autodetect)"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;Léo&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+>>>>>>> cc
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
 >>>>>>> dev 1
     <servers />
