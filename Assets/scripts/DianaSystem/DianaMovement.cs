@@ -26,42 +26,78 @@ public class DianaMovement : MonoBehaviour
 
     [Header("Saut & Wall Jump")]
     public float jumpForce = 7f;
-    public float wallJumpForce = 7f;
-    public Vector2 wallJumpDirection = new Vector2(1, 1);
-    public float wallCheckDistance = 0.5f;
+    public float wallJumpForce = 15f;
+    public Vector2 wallJumpDirection = new Vector2(2f, 1.2f);
+    public float wallCheckDistance = 0.7f;
 
     private Rigidbody2D _rb;
-    private Transform _myTransform;         
+    private Transform _myTransform;
 
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
         _myTransform = transform;
+        _rb.freezeRotation = true;
+
+        if (player == null)
+        {
+            GameObject foundPlayer = GameObject.FindGameObjectWithTag("Player");
+            if (foundPlayer != null)
+            {
+                player = foundPlayer.transform;
+            }
+        }
+    }
+
+    void FixedUpdate()
+    {
+        bool environmentObstacleDetected = CheckEnvironmentObstacle();
+        bool isTouchingWall = IsTouchingWall();
+        
+        float currentSpeed = environmentObstacleDetected ? boostedFollowSpeed : followSpeed;
+        float targetX = player.position.x + desiredDistance;
+
+        if (isTouchingWall)
+        {
+            _rb.linearVelocity = new Vector2(0, _rb.linearVelocity.y);
+            return; 
+        }
+
+        if (targetX > _myTransform.position.x)
+        {
+            Vector2 moveDirection = IsOnSlope() ? new Vector2(1, 0.3f).normalized : Vector2.right;
+            _rb.gravityScale = IsOnSlope() ? 0.5f : 1f;
+
+            _rb.linearVelocity = new Vector2(moveDirection.x * currentSpeed, _rb.linearVelocity.y);
+        }
     }
 
     void Update()
     {
-        bool environmentObstacleDetected = frontCheck && CheckEnvironmentObstacle();
+        bool isGroundAhead = IsGroundAhead();
+        bool isGrounded = IsGrounded();
+        bool isTouchingWall = IsTouchingWall();
+        bool environmentObstacleDetected = CheckEnvironmentObstacle();
 
-        float currentSpeed = environmentObstacleDetected ? boostedFollowSpeed : followSpeed;
-
-        float targetX = player.position.x + desiredDistance;
-     
-        if (targetX < _myTransform.position.x)
-            targetX = _myTransform.position.x;
-        Vector2 targetPosition = new Vector2(targetX, _myTransform.position.y);
-        _myTransform.position = Vector2.MoveTowards(_myTransform.position, targetPosition, currentSpeed * Time.deltaTime);
-
-        if (!IsGroundAhead() && IsGrounded())
+        if (isTouchingWall && isGrounded)
         {
-            if (IsTouchingWall())
-                WallJump();
-            else if (environmentObstacleDetected)
+            WallJump();
+            return;
+        }
+
+        if ((!isGroundAhead || environmentObstacleDetected) && isGrounded)
+        {
+            if (environmentObstacleDetected)
+            {
                 JumpBoosted();
+            }
             else
+            {
                 Jump();
+            }
         }
     }
+
     public void OnCollectibleCollected(int totalCollectibles)
     {
         if (totalCollectibles % collectiblesThreshold == 0)
@@ -79,16 +115,17 @@ public class DianaMovement : MonoBehaviour
     {
         _rb.linearVelocity = new Vector2(_rb.linearVelocity.x, boostedJumpForce);
     }
+
     void WallJump()
     {
         float wallDir = IsTouchingWallOnRight() ? -1f : 1f;
         Vector2 jumpDir = new Vector2(wallDir * wallJumpDirection.x, wallJumpDirection.y).normalized;
         _rb.linearVelocity = jumpDir * wallJumpForce;
     }
+
     bool CheckEnvironmentObstacle()
     {
         RaycastHit2D hit = Physics2D.Raycast(frontCheck.position, _myTransform.right, obstacleDetectionRange, environmentLayer);
-        Debug.DrawRay(frontCheck.position, _myTransform.right * obstacleDetectionRange, Color.yellow);
         return hit.collider != null;
     }
 
@@ -96,23 +133,37 @@ public class DianaMovement : MonoBehaviour
     {
         float rayDistance = 1f;
         RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, rayDistance, groundLayer);
-        Debug.DrawRay(groundCheck.position, Vector2.down * rayDistance, Color.red);
         return hit.collider != null;
     }
+
     bool IsGrounded()
     {
-        float rayDistance = 0.1f;
-        return Physics2D.Raycast(groundCheck.position, Vector2.down, rayDistance, groundLayer).collider != null;
+        float rayDistance = 0.3f;
+        RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, rayDistance, groundLayer);
+        return hit.collider != null;
     }
+
     bool IsTouchingWall()
     {
+        float checkDistance = wallCheckDistance;
         Vector2 origin = wallCheck.position;
-        if (Physics2D.Raycast(origin, _myTransform.right, wallCheckDistance, wallLayer).collider != null)
-            return true;
-        return Physics2D.Raycast(origin, -_myTransform.right, wallCheckDistance, wallLayer).collider != null;
+        return Physics2D.Raycast(origin, _myTransform.right, checkDistance, wallLayer).collider != null ||
+               Physics2D.Raycast(origin, -_myTransform.right, checkDistance, wallLayer).collider != null;
     }
+
     bool IsTouchingWallOnRight()
     {
         return Physics2D.Raycast(wallCheck.position, _myTransform.right, wallCheckDistance, wallLayer).collider != null;
+    }
+
+    bool IsOnSlope()
+    {
+        RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, Vector2.down, 1f, groundLayer);
+        if (hit.collider != null)
+        {
+            float angle = Vector2.Angle(hit.normal, Vector2.up);
+            return angle > 10f;
+        }
+        return false;
     }
 }
