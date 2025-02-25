@@ -10,15 +10,12 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private float wallSlidingSpeed = 2f;
     [SerializeField] private float wallJumpForce = 10f;
     [SerializeField] private float glideGravity = 2f;
-<<<<<<< HEAD
+
     [SerializeField] private float normalGravity = 5f;
     [SerializeField] private float maxGrappleDistance = 10f;
     [SerializeField] private float grappleSpeed = 10f;
     [SerializeField] private KeyCode glideKey = KeyCode.LeftShift;
-=======
-    [SerializeField] private float normalGravity = 5f; 
-    [SerializeField] private KeyCode glideKey = KeyCode.LeftShift; 
->>>>>>> f619e39 (dev 1 )
+    
     [SerializeField] private Vector2 wallJumpDirection = new Vector2(1.5f, 1f);
     [SerializeField] private LayerMask groundLayer;
     Rigidbody2D rb;
@@ -70,19 +67,6 @@ public class CharacterController : MonoBehaviour
         
         
     }
-    void Glide()
-    {
-        if (!isGrounded && Input.GetKey(glideKey)) 
-        {
-            rb.gravityScale = glideGravity;
-            rb.velocity = new Vector2(rb.velocity.x, Mathf.Max(rb.velocity.y, -2f));
-        }
-        else
-        {
-            rb.gravityScale = normalGravity;
-        }
-    }
-
     private void TryGrapple()
     {
         Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
