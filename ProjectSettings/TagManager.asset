@@ -4,6 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
+  - break
+  serializedVersion: 3
+  tags:
   - Rose
   - HighScorePanel
   - Record
@@ -11,7 +14,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
