@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< refs/remotes/origin/Tom
 <<<<<<< Updated upstream
     <list default="true" id="2b38277d-7bd1-4968-a7e6-3b5e2ee02603" name="Changes" comment="" />
 =======
     <list default="true" id="f394058a-e40c-4e13-8e83-e7a603a88a8e" name="Changes" comment="" />
 >>>>>>> Stashed changes
+=======
+    <list default="true" id="972c09f8-3732-49e3-b61b-71cca70a5bed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JackChase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JackChase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CharacterController.cs" afterDir="false" />
+    </list>
+>>>>>>> dev 1
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< refs/remotes/origin/Tom
 <<<<<<< Updated upstream
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -127,19 +135,17 @@
       <workItem from="1740406030087" duration="3939000" />
 >>>>>>> Stashed changes
     </task>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Léo",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+>>>>>>> dev 1
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityProjectDiscoverer">
-    <option name="hasUnityReference" value="true" />
-    <option name="unityProject" value="true" />
-    <option name="unityProjectFolder" value="true" />
-  </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
-  <component name="VcsManagerConfiguration">
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
 </project>

@@ -9,6 +9,9 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private float speed = 4f;
     [SerializeField] private float wallSlidingSpeed = 2f;
     [SerializeField] private float wallJumpForce = 10f;
+    [SerializeField] private float glideGravity = 2f;
+    [SerializeField] private float normalGravity = 5f; 
+    [SerializeField] private KeyCode glideKey = KeyCode.LeftShift; 
     [SerializeField] private Vector2 wallJumpDirection = new Vector2(1.5f, 1f);
     [SerializeField] private LayerMask groundLayer;
     Rigidbody2D rb;
@@ -28,6 +31,7 @@ public class CharacterController : MonoBehaviour
     {
         Move();
         Jump();
+        Glide();
         CheckAround();
         Wallslide();
         Break();
@@ -56,6 +60,18 @@ public class CharacterController : MonoBehaviour
         else
         {
             isWallSliding = false;
+        }
+    }
+    void Glide()
+    {
+        if (!isGrounded && Input.GetKey(glideKey)) 
+        {
+            rb.gravityScale = glideGravity;
+            rb.velocity = new Vector2(rb.velocity.x, Mathf.Max(rb.velocity.y, -2f));
+        }
+        else
+        {
+            rb.gravityScale = normalGravity;
         }
     }
 
