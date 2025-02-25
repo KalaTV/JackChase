@@ -22,6 +22,9 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private bool isWallSliding;
 
     public LayerMask layerMask;
+    [SerializeField] DistanceJoint2D joint;
+    private Vector2 grapplePoint;
+    private bool isGrappling = false;
 
     [SerializeField] private Transform player;
     [SerializeField] private LineRenderer lineRenderer;
