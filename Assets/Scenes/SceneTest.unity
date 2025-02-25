@@ -639,7 +639,6 @@ GameObject:
   - component: {fileID: 1534455679}
   - component: {fileID: 1534455678}
   - component: {fileID: 1534455677}
-  - component: {fileID: 1534455682}
   - component: {fileID: 1534455683}
   m_Layer: 2
   m_Name: Capsule
@@ -666,8 +665,8 @@ MonoBehaviour:
   wallJumpForce: 30
   glideGravity: 2
   normalGravity: 3
-  maxGrappleDistance: 10
-  grappleSpeed: 10
+  maxGrappleDistance: 5
+  grappleSpeed: 15
   glideKey: 304
   wallJumpDirection: {x: 1.5, y: 1}
   groundLayer:
@@ -679,7 +678,8 @@ MonoBehaviour:
   layerMask:
     serializedVersion: 2
     m_Bits: 4
-  joint: {fileID: 0}
+  player: {fileID: 1534455681}
+  lineRenderer: {fileID: 1534455683}
 --- !u!50 &1534455678
 Rigidbody2D:
   serializedVersion: 5
@@ -815,26 +815,6 @@ Transform:
   - {fileID: 552013014}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!232 &1534455682
-DistanceJoint2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1534455676}
-  m_Enabled: 1
-  serializedVersion: 4
-  m_EnableCollision: 0
-  m_ConnectedRigidBody: {fileID: 1646294184}
-  m_BreakForce: Infinity
-  m_BreakTorque: Infinity
-  m_BreakAction: 3
-  m_AutoConfigureConnectedAnchor: 0
-  m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 1.9163525, y: 0.14905027}
-  m_AutoConfigureDistance: 1
-  m_Distance: 1.1932352
-  m_MaxDistanceOnly: 0
 --- !u!120 &1534455683
 LineRenderer:
   serializedVersion: 2
@@ -890,8 +870,8 @@ LineRenderer:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-        time: 0
-        value: 1
+        time: 0.01121521
+        value: 0.17241287
         inSlope: 0
         outSlope: 0
         tangentMode: 0
