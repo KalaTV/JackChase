@@ -25,7 +25,6 @@ public class CharacterController : MonoBehaviour
 
     [SerializeField] private Transform player;
     [SerializeField] private LineRenderer lineRenderer;
-    [SerializeField] DistanceJoint2D joint;
     private Vector2 grapplePoint;
     private bool isGrappling = false;
 
@@ -33,7 +32,6 @@ public class CharacterController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         wallJumpDirection.Normalize();
-        joint.enabled = false;
         rb.freezeRotation = true;
         lineRenderer.positionCount = 2;
     }
@@ -64,12 +62,18 @@ public class CharacterController : MonoBehaviour
 
     private void TryGrapple()
     {
-        Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        grapplePoint = mousePosition;
-        lineRenderer.SetPosition(0, transform.position);
-        lineRenderer.SetPosition(1, grapplePoint);
-        lineRenderer.enabled = true;
-        isGrappling = true;
+        Vector2 direction = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
+        
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction.normalized, maxGrappleDistance, groundLayer);
+        if (hit.collider != null)
+        {
+            Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            grapplePoint = mousePosition;
+            lineRenderer.SetPosition(0, transform.position);
+            lineRenderer.SetPosition(1, grapplePoint);
+            lineRenderer.enabled = true;
+            isGrappling = true;
+        }
     }
 
     private void ReleaseGrapple()
@@ -82,11 +86,18 @@ public class CharacterController : MonoBehaviour
 
     private void MoveTowardsGrapplePoint()
         {
-            float step = grappleSpeed * Time.deltaTime;
-            transform.position = Vector2.MoveTowards(transform.position, grapplePoint, step);
-            if (Vector2.Distance(transform.position, grapplePoint) < 0.1f)
+            if (isGrappling)
             {
-                ReleaseGrapple();
+                float step = grappleSpeed * Time.deltaTime;
+                transform.position = Vector2.MoveTowards(transform.position, grapplePoint, step);
+
+                lineRenderer.SetPosition(0, transform.position);
+                lineRenderer.SetPosition(1, grapplePoint);
+
+                if (Vector2.Distance(transform.position, grapplePoint) < 0.1f)
+                {
+                    ReleaseGrapple();
+                }
             }
         }
 
