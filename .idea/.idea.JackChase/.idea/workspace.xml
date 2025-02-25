@@ -164,6 +164,15 @@
 }</component>
   <component name="TaskManager">
 >>>>>>> dev 1
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "Léo",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+>>>>>>> f619e39 (dev 1 )
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
