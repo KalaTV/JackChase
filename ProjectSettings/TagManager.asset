@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Rose
+  - HighScorePanel
+  - Record
   layers:
   - Default
   - TransparentFX

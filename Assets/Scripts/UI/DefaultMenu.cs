@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-public class BasicMenu : MonoBehaviour
+public class DefaultMenu : MonoBehaviour
 {
     public GameObject mainMenu;
     public GameObject activeMenu;
@@ -8,7 +8,7 @@ public class BasicMenu : MonoBehaviour
     
     public void PlayGame ()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(0);
     }
 
     public void BackMenu()
@@ -19,6 +19,4 @@ public class BasicMenu : MonoBehaviour
             activeMenu.SetActive(false);
         }
     }
-    
 }
-

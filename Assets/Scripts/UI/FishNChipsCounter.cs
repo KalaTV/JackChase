@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-public class FishChipsCounter : MonoBehaviour
+public class FishNChipsCounter : MonoBehaviour
 {
     TMP_Text text;
 

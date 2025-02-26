@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c4baf2293d253ff4eae4557ea172d140
+guid: a56f986c89ec3854d81b40f86a1b742d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2922541498897785925
-    second: Bouton_Menu_0
+      213: -6675114012256605823
+    second: Fishn.ships_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bouton_Menu_0
+      name: Fishn.ships_0
       rect:
         serializedVersion: 2
-        x: 183
-        y: 476
-        width: 591
-        height: 116
+        x: 268
+        y: 391
+        width: 487
+        height: 327
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 544e32b4204fe8820800000000000000
-      internalID: 2922541498897785925
+      spriteID: 18966301c2b3d53a0800000000000000
+      internalID: -6675114012256605823
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Bouton_Menu_0: 2922541498897785925
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
