@@ -20,14 +20,13 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private bool isTouchingWall;
     [SerializeField] private bool isGrounded;
     [SerializeField] private bool isWallSliding;
-    [SerializeField] private Animator anim;
+
     public LayerMask layerMask;
 
     [SerializeField] private Transform player;
     [SerializeField] private LineRenderer lineRenderer;
     private Vector2 grapplePoint;
     private bool isGrappling = false;
-    
 
     private void Start()
     {
@@ -40,30 +39,25 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         Move();
-                Jump();
-                Glide();
-                CheckAround();
-                Wallslide();
-                Break();
-                if (Input.GetMouseButtonDown(0))
-                {
-                    TryGrapple();
-                }
-        
-                if (Input.GetMouseButtonUp(0))
-                {
-                    ReleaseGrapple();
-                }
-        
-                if (isGrappling)
-                {
-                    MoveTowardsGrapplePoint();
-                }
-        bool isMoving = Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A); 
-        anim.SetBool("IsRunning", isMoving);
-        
-        
-        
+        Jump();
+        Glide();
+        CheckAround();
+        Wallslide();
+        Break();
+        if (Input.GetMouseButtonDown(0))
+        {
+            TryGrapple();
+        }
+
+        if (Input.GetMouseButtonUp(0))
+        {
+            ReleaseGrapple();
+        }
+
+        if (isGrappling)
+        {
+            MoveTowardsGrapplePoint();
+        }
     }
 
     private void TryGrapple()
@@ -111,45 +105,25 @@ public class CharacterController : MonoBehaviour
         {
             float moveInput = Input.GetAxis("Horizontal") * speed;
             rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
-            
-            if (moveInput > 0)
-            {
-                transform.localScale = new Vector3(1, 1, 1); 
-            }
-            else if (moveInput < 0)
-            {
-                transform.localScale = new Vector3(-1, 1, 1); 
-            }
         }
 
         private void CheckAround()
         {
-            isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 2f, groundLayer);
+            isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 1.1f, groundLayer);
 
-            isTouchingWall = Physics2D.Raycast(transform.position, Vector2.right, 1.2f, groundLayer) ||
-                             Physics2D.Raycast(transform.position, Vector2.left, 1.2f, groundLayer);
+            isTouchingWall = Physics2D.Raycast(transform.position, Vector2.right, 0.6f, groundLayer) ||
+                             Physics2D.Raycast(transform.position, Vector2.left, 0.6f, groundLayer);
         }
 
         private void Wallslide()
         {
-            float moveInput = Input.GetAxis("Horizontal") * speed;
             if (isTouchingWall && rb.linearVelocity.y < 0)
             {
-                anim.SetBool ("IsSliding", true);
                 isWallSliding = true;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, -wallSlidingSpeed);
-                if (moveInput > 0)
-                {
-                    transform.localScale = new Vector3(-1, 1, 1); 
-                }
-                else if (moveInput < 0)
-                {
-                    transform.localScale = new Vector3(1, 1, 1); 
-                }
             }
             else
             {
-                anim.SetBool ("IsSliding", false);
                 isWallSliding = false;
             }
         }
@@ -158,14 +132,12 @@ public class CharacterController : MonoBehaviour
         {
             if (!isGrounded && Input.GetKey(glideKey))
             {
-                anim.SetBool ("IsGliding", true);
                 rb.gravityScale = glideGravity;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -2f));
             }
             else
             {
                 rb.gravityScale = normalGravity;
-                anim.SetBool ("IsGliding", false);
             }
         }
 
@@ -173,7 +145,6 @@ public class CharacterController : MonoBehaviour
         {
             if (Input.GetKeyDown("space") && isGrounded)
             {
-                anim.SetBool ("IsJumping", true);
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpHeight);
                 Debug.Log("Jump");
             }
@@ -182,10 +153,6 @@ public class CharacterController : MonoBehaviour
                 float wallJumpDirectionX = isTouchingWall ? -Mathf.Sign(rb.linearVelocity.x) : 1;
                 rb.linearVelocity = new Vector2(wallJumpDirectionX * wallJumpDirection.x * wallJumpForce,
                     wallJumpDirection.y * wallJumpForce);
-            }
-            else
-            {
-                anim.SetBool ("IsJumping", false);
             }
         }
 
