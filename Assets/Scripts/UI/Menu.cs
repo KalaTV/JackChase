@@ -7,8 +7,7 @@ public class Menu : MonoBehaviour
      
     public void PlayGame ()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
    
     public void ControlMenu()

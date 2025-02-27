@@ -7,14 +7,14 @@ public class Background : MonoBehaviour
     public MeshRenderer mesh_Renderer;
 
     private float x_Scroll;
-    
-    
+
     void Awake()   
     {
         mesh_Renderer = GetComponent<MeshRenderer>();
     }           
 
 
+    // Update is called once per frame
     void Update()   
     {
         Scroll();

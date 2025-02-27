@@ -1,9 +1,7 @@
 using UnityEngine;
 using TMPro;
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 
 public class StopWatch : MonoBehaviour
 {
@@ -22,19 +20,16 @@ public class StopWatch : MonoBehaviour
     [SerializeField] private GameObject scoreEntryPrefab; 
 
     private string playerName = "Player"; 
-    private List<(string playerName, float time)> leaderboard = new List<(string, float)>();
-    private IEnumerator startTimer;
-    
+    private List<(string playerName, float time)> leaderboard = new List<(string, float)>(); 
+
     void Start()
     {
         currentTime = 0;
         
         LoadLeaderboard();
         DisplayLeaderboard();
-        StartCoroutine(StartTimer(9999f)); 
-        
     }
-    
+
     void Update()
     {
         if (timerActive)
@@ -45,36 +40,26 @@ public class StopWatch : MonoBehaviour
         TimeSpan time = TimeSpan.FromSeconds(currentTime);
         timerDisplay.text = time.ToString(@"mm\:ss\:fff");
     }
-    
-    private IEnumerator StartTimer(float time)
+
+    public void StartTimer()
     {
-        timerActive = true;
-
         
-        while (timerActive && currentTime < time)
-        {
-            currentTime += Time.deltaTime;  
-            
-            if (FishNChipsCounter.fishChips >= 2) 
-            {
-               StopTimer();
-                yield break;  
-            }
-
-            yield return null; 
-        }
+        playerName = string.IsNullOrWhiteSpace(nameInputField.text) ? "Player" : nameInputField.text;
+        playerNameText.text = playerName; 
+        timerActive = true;
     }
 
     public void StopTimer()
     {
         timerActive = false;
-        recordPanel.SetActive(true); 
+        recordPanel.SetActive(true);
         
         AddNewScore(playerName, currentTime);
+        
         SaveLeaderboard();
+        
         DisplayLeaderboard();
     }
-        
 
     void AddNewScore(string name, float time)
     {
@@ -152,7 +137,9 @@ public class StopWatch : MonoBehaviour
             }
         }
 
+        Debug.Log($"Nombre de scores chargés : {leaderboard.Count}");
     }
+    
     
     public void ValidateName()
     {
@@ -160,7 +147,11 @@ public class StopWatch : MonoBehaviour
         {
             playerName = nameInputField.text;
             playerNameText.text = playerName;
+            Debug.Log("Nom validé : " + playerName);
         }
-       
+        else
+        {
+            Debug.LogWarning("Veuillez entrer un nom avant de valider !");
+        }
     }
 }

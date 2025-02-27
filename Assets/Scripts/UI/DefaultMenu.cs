@@ -1,6 +1,5 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections.Generic;
 public class DefaultMenu : MonoBehaviour
 {
     public GameObject mainMenu;
@@ -9,8 +8,7 @@ public class DefaultMenu : MonoBehaviour
     
     public void PlayGame ()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 
     public void BackMenu()
