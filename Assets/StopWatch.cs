@@ -34,6 +34,7 @@ public class StopWatch : MonoBehaviour
         StartCoroutine(StartTimer(9999f)); 
         
     }
+ 
     
     void Update()
     {
@@ -55,8 +56,9 @@ public class StopWatch : MonoBehaviour
         {
             currentTime += Time.deltaTime;  
             
-            if (FishNChipsCounter.fishChips >= 2) 
+            if (FishNChipsCounter.fishChips >= 1) 
             {
+                yield return new WaitForSeconds(3f);
                StopTimer();
                 yield break;  
             }
@@ -140,7 +142,7 @@ public class StopWatch : MonoBehaviour
     {
         leaderboard.Clear();
 
-        for (int i = 0; i < 1; i++) 
+        for (int i = 0; i < 3; i++) 
         {
             if (PlayerPrefs.HasKey($"LeaderboardTime_{i}"))
             {
