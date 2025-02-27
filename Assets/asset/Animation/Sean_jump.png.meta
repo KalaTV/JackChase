@@ -1,142 +1,157 @@
 fileFormatVersion: 2
-guid: cb406b00550ca524b8cea94558fd13fd
+guid: 6accfaf547bc23544931bd4cfa5d844e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3788221431760314698
-    second: Sean_hyperplanningue_0
+      213: -6248970903143982781
+    second: Sean_jump_0
   - first:
-      213: 5311133429427735297
-    second: Sean_hyperplanningue_1
+      213: -526755900925096066
+    second: Sean_jump_1
   - first:
-      213: -2066190221666234419
-    second: Sean_hyperplanningue_2
+      213: 6916011406331065192
+    second: Sean_jump_2
   - first:
-      213: 5012767125109553532
-    second: Sean_hyperplanningue_3
+      213: -4038651233330493753
+    second: Sean_jump_3
   - first:
-      213: -1914655080422876213
-    second: Sean_hyperplanningue_4
+      213: 8021570441924192776
+    second: Sean_jump_4
   - first:
-      213: -3352612301704551319
-    second: Sean_hyperplanningue_5
+      213: -8857907755448559850
+    second: Sean_jump_5
   - first:
-      213: 5928445861153339465
-    second: Sean_hyperplanningue_6
+      213: -7733798814992262925
+    second: Sean_jump_6
   - first:
-      213: -2324267942405898559
-    second: Sean_hyperplanningue_7
+      213: 34061026023568840
+    second: Sean_jump_7
   - first:
-      213: 2676081913270282477
-    second: Sean_hyperplanningue_8
+      213: 5568074005915842108
+    second: Sean_jump_8
   - first:
-      213: -3091238295487626060
-    second: Sean_hyperplanningue_9
+      213: -1341194646524322361
+    second: Sean_jump_9
   - first:
-      213: -6885025899804475509
-    second: Sean_hyperplanningue_10
+      213: 5267476874853290113
+    second: Sean_jump_10
   - first:
-      213: -1400674142610991152
-    second: Sean_hyperplanningue_11
+      213: 6274725823984237933
+    second: Sean_jump_11
   - first:
-      213: 9169834387203119388
-    second: Sean_hyperplanningue_12
+      213: 5797737071771268735
+    second: Sean_jump_12
   - first:
-      213: -7804866738393143507
-    second: Sean_hyperplanningue_13
+      213: -5108299091690621042
+    second: Sean_jump_13
   - first:
-      213: -2944736915141038805
-    second: Sean_hyperplanningue_14
+      213: -4384435644506682629
+    second: Sean_jump_14
   - first:
-      213: 2440671639273286554
-    second: Sean_hyperplanningue_15
+      213: 5002654547562062642
+    second: Sean_jump_15
   - first:
-      213: 172284733617161544
-    second: Sean_hyperplanningue_16
+      213: 3769796139084131147
+    second: Sean_jump_16
   - first:
-      213: -8927939392841795466
-    second: Sean_hyperplanningue_17
+      213: -5972414687768861324
+    second: Sean_jump_17
   - first:
-      213: -4176553631817292718
-    second: Sean_hyperplanningue_18
+      213: -8224377935091703294
+    second: Sean_jump_18
   - first:
-      213: -659615924591867809
-    second: Sean_hyperplanningue_19
+      213: 6684242573480635538
+    second: Sean_jump_19
   - first:
-      213: -2558981418862905953
-    second: Sean_hyperplanningue_20
+      213: -3610828562318886900
+    second: Sean_jump_20
   - first:
-      213: 8661339749431653930
-    second: Sean_hyperplanningue_21
+      213: 9101521339513597280
+    second: Sean_jump_21
   - first:
-      213: 8345127559784821299
-    second: Sean_hyperplanningue_22
+      213: -2761292392022039414
+    second: Sean_jump_22
   - first:
-      213: -3501855477159076923
-    second: Sean_hyperplanningue_23
+      213: -3549558741606674526
+    second: Sean_jump_23
   - first:
-      213: -1298802072838881750
-    second: Sean_hyperplanningue_24
+      213: -3914856178539170580
+    second: Sean_jump_24
   - first:
-      213: 6925540164223733089
-    second: Sean_hyperplanningue_25
+      213: -3971667312555869164
+    second: Sean_jump_25
   - first:
-      213: -1200681742035139993
-    second: Sean_hyperplanningue_26
+      213: -1773260170379305547
+    second: Sean_jump_26
   - first:
-      213: 2940258715963136600
-    second: Sean_hyperplanningue_27
+      213: -2506916545885148889
+    second: Sean_jump_27
   - first:
-      213: 6491797556795609675
-    second: Sean_hyperplanningue_28
+      213: -4820707409179240000
+    second: Sean_jump_28
   - first:
-      213: -3187960073381499284
-    second: Sean_hyperplanningue_29
+      213: 2215388709026480836
+    second: Sean_jump_29
   - first:
-      213: 7623258662357178248
-    second: Sean_hyperplanningue_30
+      213: 7812014739122839555
+    second: Sean_jump_30
   - first:
-      213: -827490748299673155
-    second: Sean_hyperplanningue_31
+      213: 2898119407234982391
+    second: Sean_jump_31
   - first:
-      213: -7421789097977346655
-    second: Sean_hyperplanningue_32
+      213: 196704316043226965
+    second: Sean_jump_32
   - first:
-      213: 4614180439212038455
-    second: Sean_hyperplanningue_33
+      213: -8184160688495701183
+    second: Sean_jump_33
   - first:
-      213: -172020893689026489
-    second: Sean_hyperplanningue_34
+      213: -2246125756559655716
+    second: Sean_jump_34
   - first:
-      213: 1590101986589721710
-    second: Sean_hyperplanningue_35
+      213: -5047113671135608420
+    second: Sean_jump_35
   - first:
-      213: 8726422290487805971
-    second: Sean_hyperplanningue_36
+      213: 6914724671865326644
+    second: Sean_jump_36
   - first:
-      213: 8342622006547207530
-    second: Sean_hyperplanningue_37
+      213: 9032855216597848958
+    second: Sean_jump_37
   - first:
-      213: 6258366751505026274
-    second: Sean_hyperplanningue_38
+      213: -4079530109400364973
+    second: Sean_jump_38
   - first:
-      213: -2192142370987160416
-    second: Sean_hyperplanningue_39
+      213: 7826330659351064082
+    second: Sean_jump_39
   - first:
-      213: 1963675535637584832
-    second: Sean_hyperplanningue_40
+      213: -3350485175667525785
+    second: Sean_jump_40
   - first:
-      213: 3123248381630266086
-    second: Sean_hyperplanningue_41
+      213: -3623941992812398384
+    second: Sean_jump_41
   - first:
-      213: -6716182722743709062
-    second: Sean_hyperplanningue_42
+      213: 5524186162387955023
+    second: Sean_jump_42
   - first:
-      213: 395600599806557734
-    second: Sean_hyperplanningue_43
+      213: -6332243586843721143
+    second: Sean_jump_43
   - first:
-      213: -8934370369714446426
-    second: Sean_hyperplanningue_44
+      213: 8071816530051994076
+    second: Sean_jump_44
+  - first:
+      213: -2230084634754928345
+    second: Sean_jump_45
+  - first:
+      213: -4303704373024691483
+    second: Sean_jump_46
+  - first:
+      213: -3726766339730747640
+    second: Sean_jump_47
+  - first:
+      213: -3769928716594488293
+    second: Sean_jump_48
+  - first:
+      213: -6966524923425719026
+    second: Sean_jump_49
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -232,13 +247,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sean_hyperplanningue_0
+      name: Sean_jump_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 3399
+        x: 6
+        y: 3394
         width: 350
-        height: 697
+        height: 662
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6be976dbda88d6bc0800000000000000
-      internalID: -3788221431760314698
+      spriteID: 349d95272123749a0800000000000000
+      internalID: -6248970903143982781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_1
+      name: Sean_jump_1
       rect:
         serializedVersion: 2
-        x: 441
-        y: 3397
-        width: 354
-        height: 699
+        x: 361
+        y: 3394
+        width: 350
+        height: 658
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10b0eb7e6bfe4b940800000000000000
-      internalID: 5311133429427735297
+      spriteID: e7fc40a8c4690b8f0800000000000000
+      internalID: -526755900925096066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_2
+      name: Sean_jump_2
       rect:
         serializedVersion: 2
-        x: 846
-        y: 3395
-        width: 358
-        height: 701
+        x: 716
+        y: 3394
+        width: 350
+        height: 655
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,20 +306,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dcfc237c0fa6353e0800000000000000
-      internalID: -2066190221666234419
+      spriteID: 863b9e04bbb9aff50800000000000000
+      internalID: 6916011406331065192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_3
+      name: Sean_jump_3
       rect:
         serializedVersion: 2
-        x: 1251
-        y: 3393
-        width: 361
-        height: 703
+        x: 1071
+        y: 3394
+        width: 350
+        height: 652
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7939e9342de09540800000000000000
-      internalID: 5012767125109553532
+      spriteID: 7c684a9d914d3f7c0800000000000000
+      internalID: -4038651233330493753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_4
+      name: Sean_jump_4
       rect:
         serializedVersion: 2
-        x: 1656
-        y: 3391
-        width: 364
-        height: 705
+        x: 1426
+        y: 3394
+        width: 350
+        height: 648
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -335,20 +350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bcb5fff3957cd65e0800000000000000
-      internalID: -1914655080422876213
+      spriteID: 80a2aab11d7525f60800000000000000
+      internalID: 8021570441924192776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_5
+      name: Sean_jump_5
       rect:
         serializedVersion: 2
-        x: 2061
-        y: 3389
-        width: 367
-        height: 707
+        x: 1781
+        y: 3394
+        width: 350
+        height: 645
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,20 +372,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 964ab4fdfd02971d0800000000000000
-      internalID: -3352612301704551319
+      spriteID: 6179f4fd3d3621580800000000000000
+      internalID: -8857907755448559850
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_6
+      name: Sean_jump_6
       rect:
         serializedVersion: 2
-        x: 2466
-        y: 3388
-        width: 370
-        height: 708
+        x: 2136
+        y: 3394
+        width: 350
+        height: 641
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,20 +394,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 948fd28b912164250800000000000000
-      internalID: 5928445861153339465
+      spriteID: 3f89c0404f60ca490800000000000000
+      internalID: -7733798814992262925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_7
+      name: Sean_jump_7
       rect:
         serializedVersion: 2
-        x: 2871
-        y: 3386
-        width: 373
-        height: 710
+        x: 2491
+        y: 3394
+        width: 350
+        height: 638
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -401,20 +416,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ce7112fe9a8ebfd0800000000000000
-      internalID: -2324267942405898559
+      spriteID: 8c5f1dc9252097000800000000000000
+      internalID: 34061026023568840
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_8
+      name: Sean_jump_8
       rect:
         serializedVersion: 2
-        x: 3276
-        y: 3385
-        width: 376
-        height: 711
+        x: 2845
+        y: 3394
+        width: 351
+        height: 635
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,680 +438,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de8a256525a532520800000000000000
-      internalID: 2676081913270282477
+      spriteID: c3633b5bec5c54d40800000000000000
+      internalID: 5568074005915842108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_9
+      name: Sean_jump_9
       rect:
         serializedVersion: 2
-        x: 3681
-        y: 3384
-        width: 379
-        height: 712
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b44069f527b915d0800000000000000
-      internalID: -3091238295487626060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_10
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 2666
-        width: 383
-        height: 714
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8f3acc2c697370a0800000000000000
-      internalID: -6885025899804475509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_11
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 2665
-        width: 387
-        height: 715
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d7d893d94ecf8ce0800000000000000
-      internalID: -1400674142610991152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_12
-      rect:
-        serializedVersion: 2
-        x: 825
-        y: 2665
-        width: 390
-        height: 715
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1957629acbc14f70800000000000000
-      internalID: 9169834387203119388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_13
-      rect:
-        serializedVersion: 2
-        x: 1230
-        y: 2664
-        width: 393
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d27a0daad0b8fa390800000000000000
-      internalID: -7804866738393143507
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_14
-      rect:
-        serializedVersion: 2
-        x: 1635
-        y: 2664
-        width: 396
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2de908a0613227d0800000000000000
-      internalID: -2944736915141038805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_15
-      rect:
-        serializedVersion: 2
-        x: 2040
-        y: 2663
-        width: 399
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9b2148bce10fd120800000000000000
-      internalID: 2440671639273286554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_16
-      rect:
-        serializedVersion: 2
-        x: 2445
-        y: 2664
-        width: 402
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 845497b6d04146200800000000000000
-      internalID: 172284733617161544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_17
-      rect:
-        serializedVersion: 2
-        x: 2850
-        y: 2663
-        width: 406
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 678b279ac66991480800000000000000
-      internalID: -8927939392841795466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_18
-      rect:
-        serializedVersion: 2
-        x: 3255
-        y: 2663
-        width: 409
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 254a926a996e906c0800000000000000
-      internalID: -4176553631817292718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_19
-      rect:
-        serializedVersion: 2
-        x: 3663
-        y: 2663
-        width: 407
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f58c286bfc298d6f0800000000000000
-      internalID: -659615924591867809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_20
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 1947
-        width: 404
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f95f9d525fbac7cd0800000000000000
-      internalID: -2558981418862905953
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_21
-      rect:
-        serializedVersion: 2
-        x: 411
-        y: 1947
-        width: 401
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2638d3cc92433870800000000000000
-      internalID: 8661339749431653930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_22
-      rect:
-        serializedVersion: 2
-        x: 819
-        y: 1947
-        width: 399
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 332fb4e1d49dfc370800000000000000
-      internalID: 8345127559784821299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_23
-      rect:
-        serializedVersion: 2
-        x: 1228
-        y: 1946
-        width: 396
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5cb5d254ff8e66fc0800000000000000
-      internalID: -3501855477159076923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_24
-      rect:
-        serializedVersion: 2
-        x: 1637
-        y: 1947
-        width: 393
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2eb5e6656ab9fde0800000000000000
-      internalID: -1298802072838881750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_25
-      rect:
-        serializedVersion: 2
-        x: 2046
-        y: 1946
-        width: 390
-        height: 717
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16d814616167c1060800000000000000
-      internalID: 6925540164223733089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_26
-      rect:
-        serializedVersion: 2
-        x: 2454
-        y: 1947
-        width: 388
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 762c2bd2152565fe0800000000000000
-      internalID: -1200681742035139993
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_27
-      rect:
-        serializedVersion: 2
-        x: 2863
-        y: 1947
-        width: 385
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85a9ab859b5edc820800000000000000
-      internalID: 2940258715963136600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_28
-      rect:
-        serializedVersion: 2
-        x: 3272
-        y: 1947
-        width: 382
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b421d8e9b7f771a50800000000000000
-      internalID: 6491797556795609675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_29
-      rect:
-        serializedVersion: 2
-        x: 3681
-        y: 1948
-        width: 379
-        height: 715
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6ea7fb243712c3d0800000000000000
-      internalID: -3187960073381499284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_30
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 1232
-        width: 377
-        height: 714
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88718b81d514bc960800000000000000
-      internalID: 7623258662357178248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_31
-      rect:
-        serializedVersion: 2
-        x: 428
-        y: 1232
-        width: 374
-        height: 714
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db10da47c892484f0800000000000000
-      internalID: -827490748299673155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_32
-      rect:
-        serializedVersion: 2
-        x: 837
-        y: 1233
-        width: 372
-        height: 713
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a581314322800990800000000000000
-      internalID: -7421789097977346655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_33
-      rect:
-        serializedVersion: 2
-        x: 1245
-        y: 1234
-        width: 370
-        height: 712
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7391ac899acd80040800000000000000
-      internalID: 4614180439212038455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_34
-      rect:
-        serializedVersion: 2
-        x: 1654
-        y: 1235
-        width: 367
-        height: 711
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74868b998ebdc9df0800000000000000
-      internalID: -172020893689026489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_35
-      rect:
-        serializedVersion: 2
-        x: 2063
-        y: 1236
-        width: 364
-        height: 710
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e64c253055d211610800000000000000
-      internalID: 1590101986589721710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_36
-      rect:
-        serializedVersion: 2
-        x: 2472
-        y: 1237
-        width: 361
-        height: 709
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3188390b6da7a1970800000000000000
-      internalID: 8726422290487805971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_37
-      rect:
-        serializedVersion: 2
-        x: 2880
-        y: 1239
-        width: 359
-        height: 707
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a655a9b8382f6c370800000000000000
-      internalID: 8342622006547207530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_38
-      rect:
-        serializedVersion: 2
-        x: 3289
-        y: 1240
-        width: 356
-        height: 706
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ec8299f66f2ad650800000000000000
-      internalID: 6258366751505026274
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sean_hyperplanningue_39
-      rect:
-        serializedVersion: 2
-        x: 3698
-        y: 1241
+        x: 3198
+        y: 3394
         width: 353
-        height: 705
+        height: 631
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1105,20 +460,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ac4a38c022f391e0800000000000000
-      internalID: -2192142370987160416
+      spriteID: 7cd134f239e136de0800000000000000
+      internalID: -1341194646524322361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_40
+      name: Sean_jump_10
       rect:
         serializedVersion: 2
-        x: 37
-        y: 526
-        width: 350
-        height: 703
+        x: 3554
+        y: 3394
+        width: 352
+        height: 628
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1127,20 +482,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cb9dc3ee70604b10800000000000000
-      internalID: 1963675535637584832
+      spriteID: 18017343f46d91940800000000000000
+      internalID: 5267476874853290113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_41
+      name: Sean_jump_11
       rect:
         serializedVersion: 2
-        x: 444
-        y: 527
+        x: 6
+        y: 2693
         width: 350
-        height: 702
+        height: 624
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1149,20 +504,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eab26cfad1085b20800000000000000
-      internalID: 3123248381630266086
+      spriteID: d6dfc8954ed441750800000000000000
+      internalID: 6274725823984237933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_42
+      name: Sean_jump_12
       rect:
         serializedVersion: 2
-        x: 851
-        y: 529
+        x: 361
+        y: 2693
         width: 350
-        height: 700
+        height: 621
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1171,20 +526,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a72de34c5635bc2a0800000000000000
-      internalID: -6716182722743709062
+      spriteID: f763a082623b57050800000000000000
+      internalID: 5797737071771268735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_43
+      name: Sean_jump_13
       rect:
         serializedVersion: 2
-        x: 1258
-        y: 531
+        x: 716
+        y: 2693
         width: 350
-        height: 698
+        height: 618
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1193,20 +548,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62eb66846a47d7500800000000000000
-      internalID: 395600599806557734
+      spriteID: e8774518a0dab19b0800000000000000
+      internalID: -5108299091690621042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sean_hyperplanningue_44
+      name: Sean_jump_14
       rect:
         serializedVersion: 2
-        x: 1665
-        y: 531
+        x: 1071
+        y: 2693
         width: 350
-        height: 698
+        height: 625
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1215,8 +570,778 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6af156d2c7db20480800000000000000
-      internalID: -8934370369714446426
+      spriteID: bfa4e94d20b5723c0800000000000000
+      internalID: -4384435644506682629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_15
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2693
+        width: 350
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233ed694ecffc6540800000000000000
+      internalID: 5002654547562062642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_16
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2693
+        width: 350
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bafb18d91015430800000000000000
+      internalID: 3769796139084131147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_17
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2693
+        width: 350
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47526341c78bd1da0800000000000000
+      internalID: -5972414687768861324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_18
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2693
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2026c48b7d32ddd80800000000000000
+      internalID: -8224377935091703294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_19
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2693
+        width: 350
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c2bd8b43333cc50800000000000000
+      internalID: 6684242573480635538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_20
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2696
+        width: 350
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f526bd82c3edc0800000000000000
+      internalID: -3610828562318886900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_21
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2700
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d6855bf691f4e70800000000000000
+      internalID: 9101521339513597280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2002
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84a98c033beda9d0800000000000000
+      internalID: -2761292392022039414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2005
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc621812f6dbec0800000000000000
+      internalID: -3549558741606674526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2008
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4fd632c03aba9c0800000000000000
+      internalID: -3914856178539170580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_25
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2012
+        width: 350
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cb31d3f9dc1e8c0800000000000000
+      internalID: -3971667312555869164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_26
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2015
+        width: 350
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd513a254d1467e0800000000000000
+      internalID: -1773260170379305547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_27
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2018
+        width: 350
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72967f80fa4a53dd0800000000000000
+      internalID: -2506916545885148889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_28
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2021
+        width: 350
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c917cd0728691db0800000000000000
+      internalID: -4820707409179240000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_29
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2025
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24fe01b44aebe10800000000000000
+      internalID: 2215388709026480836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_30
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 2028
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006881f30ad96c60800000000000000
+      internalID: 7812014739122839555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_31
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2031
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f128e8fe30383820800000000000000
+      internalID: 2898119407234982391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_32
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 2035
+        width: 350
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fea838885dab200800000000000000
+      internalID: 196704316043226965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1337
+        width: 350
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435f7127350c6e80800000000000000
+      internalID: -8184160688495701183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1340
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcf76f568824d0e0800000000000000
+      internalID: -2246125756559655716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_35
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1337
+        width: 351
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91c1fa5bdc05f9b0800000000000000
+      internalID: -5047113671135608420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_36
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1334
+        width: 352
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c892a047906ff50800000000000000
+      internalID: 6914724671865326644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_37
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1330
+        width: 353
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7359dc16f52b5d70800000000000000
+      internalID: 9032855216597848958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_38
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1327
+        width: 354
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3584ea2daf89267c0800000000000000
+      internalID: -4079530109400364973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_39
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1324
+        width: 355
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e6e5dd446bc9c60800000000000000
+      internalID: 7826330659351064082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_40
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1320
+        width: 355
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767ff1ffb7fa081d0800000000000000
+      internalID: -3350485175667525785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_41
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1317
+        width: 355
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8bbcf35fb25bdc0800000000000000
+      internalID: -3623941992812398384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_42
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 1314
+        width: 354
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d234adb0ad9ac40800000000000000
+      internalID: 5524186162387955023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_43
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1311
+        width: 353
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9424fe6e10a5f18a0800000000000000
+      internalID: -6332243586843721143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 606
+        width: 352
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd110e52e5ad40070800000000000000
+      internalID: 8071816530051994076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_45
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 603
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721306617d52d01e0800000000000000
+      internalID: -2230084634754928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 600
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea619bbcab2644c0800000000000000
+      internalID: -4303704373024691483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_47
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 597
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f477f52cdd74cc0800000000000000
+      internalID: -3726766339730747640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_48
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 593
+        width: 350
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c57d26ec58eabc0800000000000000
+      internalID: -3769928716594488293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_jump_49
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 590
+        width: 350
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dfd4c0e7ee15f90800000000000000
+      internalID: -6966524923425719026
       vertices: []
       indices: 
       edges: []
@@ -1235,51 +1360,56 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Sean_hyperplanningue_0: -3788221431760314698
-      Sean_hyperplanningue_1: 5311133429427735297
-      Sean_hyperplanningue_10: -6885025899804475509
-      Sean_hyperplanningue_11: -1400674142610991152
-      Sean_hyperplanningue_12: 9169834387203119388
-      Sean_hyperplanningue_13: -7804866738393143507
-      Sean_hyperplanningue_14: -2944736915141038805
-      Sean_hyperplanningue_15: 2440671639273286554
-      Sean_hyperplanningue_16: 172284733617161544
-      Sean_hyperplanningue_17: -8927939392841795466
-      Sean_hyperplanningue_18: -4176553631817292718
-      Sean_hyperplanningue_19: -659615924591867809
-      Sean_hyperplanningue_2: -2066190221666234419
-      Sean_hyperplanningue_20: -2558981418862905953
-      Sean_hyperplanningue_21: 8661339749431653930
-      Sean_hyperplanningue_22: 8345127559784821299
-      Sean_hyperplanningue_23: -3501855477159076923
-      Sean_hyperplanningue_24: -1298802072838881750
-      Sean_hyperplanningue_25: 6925540164223733089
-      Sean_hyperplanningue_26: -1200681742035139993
-      Sean_hyperplanningue_27: 2940258715963136600
-      Sean_hyperplanningue_28: 6491797556795609675
-      Sean_hyperplanningue_29: -3187960073381499284
-      Sean_hyperplanningue_3: 5012767125109553532
-      Sean_hyperplanningue_30: 7623258662357178248
-      Sean_hyperplanningue_31: -827490748299673155
-      Sean_hyperplanningue_32: -7421789097977346655
-      Sean_hyperplanningue_33: 4614180439212038455
-      Sean_hyperplanningue_34: -172020893689026489
-      Sean_hyperplanningue_35: 1590101986589721710
-      Sean_hyperplanningue_36: 8726422290487805971
-      Sean_hyperplanningue_37: 8342622006547207530
-      Sean_hyperplanningue_38: 6258366751505026274
-      Sean_hyperplanningue_39: -2192142370987160416
-      Sean_hyperplanningue_4: -1914655080422876213
-      Sean_hyperplanningue_40: 1963675535637584832
-      Sean_hyperplanningue_41: 3123248381630266086
-      Sean_hyperplanningue_42: -6716182722743709062
-      Sean_hyperplanningue_43: 395600599806557734
-      Sean_hyperplanningue_44: -8934370369714446426
-      Sean_hyperplanningue_5: -3352612301704551319
-      Sean_hyperplanningue_6: 5928445861153339465
-      Sean_hyperplanningue_7: -2324267942405898559
-      Sean_hyperplanningue_8: 2676081913270282477
-      Sean_hyperplanningue_9: -3091238295487626060
+      Sean_jump_0: -6248970903143982781
+      Sean_jump_1: -526755900925096066
+      Sean_jump_10: 5267476874853290113
+      Sean_jump_11: 6274725823984237933
+      Sean_jump_12: 5797737071771268735
+      Sean_jump_13: -5108299091690621042
+      Sean_jump_14: -4384435644506682629
+      Sean_jump_15: 5002654547562062642
+      Sean_jump_16: 3769796139084131147
+      Sean_jump_17: -5972414687768861324
+      Sean_jump_18: -8224377935091703294
+      Sean_jump_19: 6684242573480635538
+      Sean_jump_2: 6916011406331065192
+      Sean_jump_20: -3610828562318886900
+      Sean_jump_21: 9101521339513597280
+      Sean_jump_22: -2761292392022039414
+      Sean_jump_23: -3549558741606674526
+      Sean_jump_24: -3914856178539170580
+      Sean_jump_25: -3971667312555869164
+      Sean_jump_26: -1773260170379305547
+      Sean_jump_27: -2506916545885148889
+      Sean_jump_28: -4820707409179240000
+      Sean_jump_29: 2215388709026480836
+      Sean_jump_3: -4038651233330493753
+      Sean_jump_30: 7812014739122839555
+      Sean_jump_31: 2898119407234982391
+      Sean_jump_32: 196704316043226965
+      Sean_jump_33: -8184160688495701183
+      Sean_jump_34: -2246125756559655716
+      Sean_jump_35: -5047113671135608420
+      Sean_jump_36: 6914724671865326644
+      Sean_jump_37: 9032855216597848958
+      Sean_jump_38: -4079530109400364973
+      Sean_jump_39: 7826330659351064082
+      Sean_jump_4: 8021570441924192776
+      Sean_jump_40: -3350485175667525785
+      Sean_jump_41: -3623941992812398384
+      Sean_jump_42: 5524186162387955023
+      Sean_jump_43: -6332243586843721143
+      Sean_jump_44: 8071816530051994076
+      Sean_jump_45: -2230084634754928345
+      Sean_jump_46: -4303704373024691483
+      Sean_jump_47: -3726766339730747640
+      Sean_jump_48: -3769928716594488293
+      Sean_jump_49: -6966524923425719026
+      Sean_jump_5: -8857907755448559850
+      Sean_jump_6: -7733798814992262925
+      Sean_jump_7: 34061026023568840
+      Sean_jump_8: 5568074005915842108
+      Sean_jump_9: -1341194646524322361
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
