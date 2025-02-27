@@ -486,10 +486,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: ControlMenu
       objectReference: {fileID: 0}
-    - target: {fileID: 6479631463391502347, guid: 6edcab2427db23246b8239ce7bbcb4f7, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7678865865535545331, guid: 6edcab2427db23246b8239ce7bbcb4f7, type: 3}
       propertyPath: m_Camera
       value: 
