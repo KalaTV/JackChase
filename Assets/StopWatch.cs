@@ -34,7 +34,6 @@ public class StopWatch : MonoBehaviour
         StartCoroutine(StartTimer(9999f)); 
         
     }
- 
     
     void Update()
     {
@@ -56,9 +55,8 @@ public class StopWatch : MonoBehaviour
         {
             currentTime += Time.deltaTime;  
             
-            if (FishNChipsCounter.fishChips >= 1) 
+            if (FishNChipsCounter.fishChips >= 2) 
             {
-                yield return new WaitForSeconds(3f);
                StopTimer();
                 yield break;  
             }

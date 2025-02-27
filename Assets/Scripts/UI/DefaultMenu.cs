@@ -9,6 +9,7 @@ public class DefaultMenu : MonoBehaviour
     
     public void PlayGame ()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(1);
     }
 

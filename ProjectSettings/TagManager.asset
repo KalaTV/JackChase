@@ -5,11 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - break
-  serializedVersion: 3
-  tags:
-  - Rose
   - HighScorePanel
-  - Record
   layers:
   - Default
   - TransparentFX
@@ -17,7 +13,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Wall
   - 
   - 
   - 
