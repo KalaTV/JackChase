@@ -20,18 +20,14 @@ public class CharacterController : MonoBehaviour
     [SerializeField] private bool isTouchingWall;
     [SerializeField] private bool isGrounded;
     [SerializeField] private bool isWallSliding;
-
+    [SerializeField] private Animator anim;
     public LayerMask layerMask;
 
     [SerializeField] private Transform player;
     [SerializeField] private LineRenderer lineRenderer;
     private Vector2 grapplePoint;
     private bool isGrappling = false;
-
-    [SerializeField] private Transform player;
-    [SerializeField] private LineRenderer lineRenderer;
-    private Vector2 grapplePoint;
-    private bool isGrappling = false;
+    
 
     private void Start()
     {
@@ -44,25 +40,30 @@ public class CharacterController : MonoBehaviour
     private void Update()
     {
         Move();
-        Jump();
-        Glide();
-        CheckAround();
-        Wallslide();
-        Break();
-        if (Input.GetMouseButtonDown(0))
-        {
-            TryGrapple();
-        }
-
-        if (Input.GetMouseButtonUp(0))
-        {
-            ReleaseGrapple();
-        }
-
-        if (isGrappling)
-        {
-            MoveTowardsGrapplePoint();
-        }
+                Jump();
+                Glide();
+                CheckAround();
+                Wallslide();
+                Break();
+                if (Input.GetMouseButtonDown(0))
+                {
+                    TryGrapple();
+                }
+        
+                if (Input.GetMouseButtonUp(0))
+                {
+                    ReleaseGrapple();
+                }
+        
+                if (isGrappling)
+                {
+                    MoveTowardsGrapplePoint();
+                }
+        bool isMoving = Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.A); 
+        anim.SetBool("IsRunning", isMoving);
+        
+        
+        
     }
 
     private void TryGrapple()
@@ -110,11 +111,12 @@ public class CharacterController : MonoBehaviour
         {
             float moveInput = Input.GetAxis("Horizontal") * speed;
             rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
+            
         }
 
         private void CheckAround()
         {
-            isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 1.1f, groundLayer);
+            isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 2f, groundLayer);
 
             isTouchingWall = Physics2D.Raycast(transform.position, Vector2.right, 0.6f, groundLayer) ||
                              Physics2D.Raycast(transform.position, Vector2.left, 0.6f, groundLayer);
@@ -137,12 +139,14 @@ public class CharacterController : MonoBehaviour
         {
             if (!isGrounded && Input.GetKey(glideKey))
             {
+                anim.SetBool ("IsGliding", true);
                 rb.gravityScale = glideGravity;
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -2f));
             }
             else
             {
                 rb.gravityScale = normalGravity;
+                anim.SetBool ("IsGliding", true);
             }
         }
 

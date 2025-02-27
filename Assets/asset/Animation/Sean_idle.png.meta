@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 08360883c5fe8484aaef76520b3fbf12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6365652133905916196
+    second: Sean_idle_0
+  - first:
+      213: 6786336659059716852
+    second: Sean_idle_1
+  - first:
+      213: 7523817098341321761
+    second: Sean_idle_2
+  - first:
+      213: 2153517107968778615
+    second: Sean_idle_3
+  - first:
+      213: 1914913729312744070
+    second: Sean_idle_4
+  - first:
+      213: 6210213733565137531
+    second: Sean_idle_5
+  - first:
+      213: 147881244456392691
+    second: Sean_idle_6
+  - first:
+      213: 5970101227810321906
+    second: Sean_idle_7
+  - first:
+      213: 2376612961887384528
+    second: Sean_idle_8
+  - first:
+      213: -6142806145448059795
+    second: Sean_idle_9
+  - first:
+      213: -9051688097306347924
+    second: Sean_idle_10
+  - first:
+      213: 9032479527998684845
+    second: Sean_idle_11
+  - first:
+      213: -7273854197001164044
+    second: Sean_idle_12
+  - first:
+      213: 4085791363967707089
+    second: Sean_idle_13
+  - first:
+      213: -7061567222242484874
+    second: Sean_idle_14
+  - first:
+      213: 5650840345711357467
+    second: Sean_idle_15
+  - first:
+      213: -2255638156918437902
+    second: Sean_idle_16
+  - first:
+      213: 1611911861150236639
+    second: Sean_idle_17
+  - first:
+      213: 5724676506134156408
+    second: Sean_idle_18
+  - first:
+      213: 7648182979179079420
+    second: Sean_idle_19
+  - first:
+      213: 6790349786181838059
+    second: Sean_idle_20
+  - first:
+      213: -1287825179533516827
+    second: Sean_idle_21
+  - first:
+      213: 7587226675666897348
+    second: Sean_idle_22
+  - first:
+      213: -7794021325698460385
+    second: Sean_idle_23
+  - first:
+      213: 6233398641000719622
+    second: Sean_idle_24
+  - first:
+      213: 4646989880611467522
+    second: Sean_idle_25
+  - first:
+      213: -6404432496469184801
+    second: Sean_idle_26
+  - first:
+      213: -75980704531692234
+    second: Sean_idle_27
+  - first:
+      213: 6676897026821735732
+    second: Sean_idle_28
+  - first:
+      213: -4639365730729420527
+    second: Sean_idle_29
+  - first:
+      213: 1168672407545830742
+    second: Sean_idle_30
+  - first:
+      213: 4935983212879368640
+    second: Sean_idle_31
+  - first:
+      213: -3160105737065136843
+    second: Sean_idle_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sean_idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1388
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4216b2d93e6575850800000000000000
+      internalID: 6365652133905916196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1388
+        width: 350
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f237716c39ed2e50800000000000000
+      internalID: 6786336659059716852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1388
+        width: 350
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c05adb9c7f96860800000000000000
+      internalID: 7523817098341321761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1388
+        width: 350
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771a43e5664d2ed10800000000000000
+      internalID: 2153517107968778615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1388
+        width: 350
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682643324e3239a10800000000000000
+      internalID: 1914913729312744070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1388
+        width: 350
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720760dc7c1f2650800000000000000
+      internalID: 6210213733565137531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_6
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1388
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f714c455316d0200800000000000000
+      internalID: 147881244456392691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1388
+        width: 350
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f1cc8f6f0ad250800000000000000
+      internalID: 5970101227810321906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1388
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3f2e1a5ec6bf020800000000000000
+      internalID: 2376612961887384528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_9
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1388
+        width: 351
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c5b705b5e50caa0800000000000000
+      internalID: -6142806145448059795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_10
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1388
+        width: 353
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667c6622a1f16280800000000000000
+      internalID: -9051688097306347924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 729
+        width: 354
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae795b4640d95d70800000000000000
+      internalID: 9032479527998684845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 729
+        width: 355
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae2c775241e0b90800000000000000
+      internalID: -7273854197001164044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_13
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 729
+        width: 356
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d767ab1995a3b830800000000000000
+      internalID: 4085791363967707089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 729
+        width: 356
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd1b07606400e90800000000000000
+      internalID: -7061567222242484874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 729
+        width: 356
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e2290ea51db6e40800000000000000
+      internalID: 5650840345711357467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 729
+        width: 356
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f74f031c0d52b0e0800000000000000
+      internalID: -2255638156918437902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 729
+        width: 355
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf39152c49ae5610800000000000000
+      internalID: 1611911861150236639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 729
+        width: 355
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8749622a3f2227f40800000000000000
+      internalID: 5724676506134156408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 729
+        width: 354
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf66823d5edc32a60800000000000000
+      internalID: 7648182979179079420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_20
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 729
+        width: 354
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4a40a572b2c3e50800000000000000
+      internalID: 6790349786181838059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_21
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 729
+        width: 354
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd91982d9b02ee0800000000000000
+      internalID: -1287825179533516827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 353
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c94e71767e3b4960800000000000000
+      internalID: 7587226675666897348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_23
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 70
+        width: 352
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f159ce516e216d390800000000000000
+      internalID: -7794021325698460385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_24
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 70
+        width: 352
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605204cb90b718650800000000000000
+      internalID: 6233398641000719622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 70
+        width: 351
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017ea4fcac6d7040800000000000000
+      internalID: 4646989880611467522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 70
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6cfb9392ee17a0800000000000000
+      internalID: -6404432496469184801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 70
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635ca98a3ff02fef0800000000000000
+      internalID: -75980704531692234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_28
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 70
+        width: 350
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435429d587a19ac50800000000000000
+      internalID: 6676897026821735732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_29
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 70
+        width: 350
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11990c4c279ad9fb0800000000000000
+      internalID: -4639365730729420527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_30
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 70
+        width: 350
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dd19edc55f73010800000000000000
+      internalID: 1168672407545830742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_31
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 70
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c157f48492208440800000000000000
+      internalID: 4935983212879368640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_idle_32
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 70
+        width: 350
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dfe89339c0524d0800000000000000
+      internalID: -3160105737065136843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sean_idle_0: 6365652133905916196
+      Sean_idle_1: 6786336659059716852
+      Sean_idle_10: -9051688097306347924
+      Sean_idle_11: 9032479527998684845
+      Sean_idle_12: -7273854197001164044
+      Sean_idle_13: 4085791363967707089
+      Sean_idle_14: -7061567222242484874
+      Sean_idle_15: 5650840345711357467
+      Sean_idle_16: -2255638156918437902
+      Sean_idle_17: 1611911861150236639
+      Sean_idle_18: 5724676506134156408
+      Sean_idle_19: 7648182979179079420
+      Sean_idle_2: 7523817098341321761
+      Sean_idle_20: 6790349786181838059
+      Sean_idle_21: -1287825179533516827
+      Sean_idle_22: 7587226675666897348
+      Sean_idle_23: -7794021325698460385
+      Sean_idle_24: 6233398641000719622
+      Sean_idle_25: 4646989880611467522
+      Sean_idle_26: -6404432496469184801
+      Sean_idle_27: -75980704531692234
+      Sean_idle_28: 6676897026821735732
+      Sean_idle_29: -4639365730729420527
+      Sean_idle_3: 2153517107968778615
+      Sean_idle_30: 1168672407545830742
+      Sean_idle_31: 4935983212879368640
+      Sean_idle_32: -3160105737065136843
+      Sean_idle_4: 1914913729312744070
+      Sean_idle_5: 6210213733565137531
+      Sean_idle_6: 147881244456392691
+      Sean_idle_7: 5970101227810321906
+      Sean_idle_8: 2376612961887384528
+      Sean_idle_9: -6142806145448059795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

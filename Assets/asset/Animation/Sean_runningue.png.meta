@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 80c15feb46a52db4aad0aa8d2d2ec864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5671440727298443957
+    second: Sean_runningue_0
+  - first:
+      213: -6604206887262132813
+    second: Sean_runningue_1
+  - first:
+      213: 4558068343961856464
+    second: Sean_runningue_2
+  - first:
+      213: 2723494999257533611
+    second: Sean_runningue_3
+  - first:
+      213: 5689045285199131021
+    second: Sean_runningue_4
+  - first:
+      213: -4429968594339231667
+    second: Sean_runningue_5
+  - first:
+      213: 8971678355464425608
+    second: Sean_runningue_6
+  - first:
+      213: -7987428051734091560
+    second: Sean_runningue_7
+  - first:
+      213: 3578811364138949196
+    second: Sean_runningue_8
+  - first:
+      213: 6893257494840625948
+    second: Sean_runningue_9
+  - first:
+      213: -6758289591798986743
+    second: Sean_runningue_10
+  - first:
+      213: -8304585037770915696
+    second: Sean_runningue_11
+  - first:
+      213: 5068802326215078700
+    second: Sean_runningue_12
+  - first:
+      213: -166098077954729258
+    second: Sean_runningue_13
+  - first:
+      213: -2505178091629231970
+    second: Sean_runningue_14
+  - first:
+      213: 7206930621017401692
+    second: Sean_runningue_15
+  - first:
+      213: -1358365239166780836
+    second: Sean_runningue_16
+  - first:
+      213: -4434722012082799981
+    second: Sean_runningue_17
+  - first:
+      213: 5315273720474978805
+    second: Sean_runningue_18
+  - first:
+      213: -7157589816504389579
+    second: Sean_runningue_19
+  - first:
+      213: -4446387780168865087
+    second: Sean_runningue_20
+  - first:
+      213: 6335859662159643827
+    second: Sean_runningue_21
+  - first:
+      213: 4605609822355263425
+    second: Sean_runningue_22
+  - first:
+      213: -2142497453017595877
+    second: Sean_runningue_23
+  - first:
+      213: 2128935024183047298
+    second: Sean_runningue_24
+  - first:
+      213: 1495346644735885985
+    second: Sean_runningue_25
+  - first:
+      213: -5788279493373083060
+    second: Sean_runningue_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sean_runningue_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3466
+        width: 357
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4571b405befa41b0800000000000000
+      internalID: -5671440727298443957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3446
+        width: 357
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b56d8d93d42954a0800000000000000
+      internalID: -6604206887262132813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3435
+        width: 356
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9acc75203814f30800000000000000
+      internalID: 4558068343961856464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 3433
+        width: 355
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4c4aa54ccbc520800000000000000
+      internalID: 2723494999257533611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_4
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 3437
+        width: 353
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81b7678b8c83fe40800000000000000
+      internalID: 5689045285199131021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_5
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3453
+        width: 351
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d480640d8079582c0800000000000000
+      internalID: -4429968594339231667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_6
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 3437
+        width: 353
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88094882eedc18c70800000000000000
+      internalID: 8971678355464425608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_7
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3433
+        width: 355
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d826639184f62190800000000000000
+      internalID: -7987428051734091560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_8
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3436
+        width: 356
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a12ad69fd7aa130800000000000000
+      internalID: 3578811364138949196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_9
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 3446
+        width: 357
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b46456b25c9af50800000000000000
+      internalID: 6893257494840625948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_10
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 3466
+        width: 357
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080a975c6bb532a0800000000000000
+      internalID: -6758289591798986743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2781
+        width: 357
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09004a068ef20cc80800000000000000
+      internalID: -8304585037770915696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2770
+        width: 357
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2339ba2cd0085640800000000000000
+      internalID: 5068802326215078700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2768
+        width: 356
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da12a99da6e1bdf0800000000000000
+      internalID: -166098077954729258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_14
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2772
+        width: 356
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9049557cc1db3dd0800000000000000
+      internalID: -2505178091629231970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_15
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2788
+        width: 355
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59a0a24739240460800000000000000
+      internalID: 7206930621017401692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_16
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2772
+        width: 355
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab93c030e162de0800000000000000
+      internalID: -1358365239166780836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_17
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2768
+        width: 354
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af23083d3b472c0800000000000000
+      internalID: -4434722012082799981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_18
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2771
+        width: 353
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f941e88945a3c940800000000000000
+      internalID: 5315273720474978805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_19
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2781
+        width: 352
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307d430cf12bac90800000000000000
+      internalID: -7157589816504389579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_20
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2801
+        width: 351
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caa5653fd14b42c0800000000000000
+      internalID: -4446387780168865087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_21
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2784
+        width: 353
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b480cd3bce7de750800000000000000
+      internalID: 6335859662159643827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2108
+        width: 355
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf098b5bb96aef30800000000000000
+      internalID: 4605609822355263425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2105
+        width: 356
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1005bcfae15442e0800000000000000
+      internalID: -2142497453017595877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2103
+        width: 356
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284715aff1f7b8d10800000000000000
+      internalID: 2128935024183047298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_25
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2109
+        width: 357
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a20e87c9d980c410800000000000000
+      internalID: 1495346644735885985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_runningue_26
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 2123
+        width: 357
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c1d8e776ebafa0800000000000000
+      internalID: -5788279493373083060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sean_runningue_0: -5671440727298443957
+      Sean_runningue_1: -6604206887262132813
+      Sean_runningue_10: -6758289591798986743
+      Sean_runningue_11: -8304585037770915696
+      Sean_runningue_12: 5068802326215078700
+      Sean_runningue_13: -166098077954729258
+      Sean_runningue_14: -2505178091629231970
+      Sean_runningue_15: 7206930621017401692
+      Sean_runningue_16: -1358365239166780836
+      Sean_runningue_17: -4434722012082799981
+      Sean_runningue_18: 5315273720474978805
+      Sean_runningue_19: -7157589816504389579
+      Sean_runningue_2: 4558068343961856464
+      Sean_runningue_20: -4446387780168865087
+      Sean_runningue_21: 6335859662159643827
+      Sean_runningue_22: 4605609822355263425
+      Sean_runningue_23: -2142497453017595877
+      Sean_runningue_24: 2128935024183047298
+      Sean_runningue_25: 1495346644735885985
+      Sean_runningue_26: -5788279493373083060
+      Sean_runningue_3: 2723494999257533611
+      Sean_runningue_4: 5689045285199131021
+      Sean_runningue_5: -4429968594339231667
+      Sean_runningue_6: 8971678355464425608
+      Sean_runningue_7: -7987428051734091560
+      Sean_runningue_8: 3578811364138949196
+      Sean_runningue_9: 6893257494840625948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

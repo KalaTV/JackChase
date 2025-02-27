@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: cb406b00550ca524b8cea94558fd13fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3788221431760314698
+    second: Sean_hyperplanningue_0
+  - first:
+      213: 5311133429427735297
+    second: Sean_hyperplanningue_1
+  - first:
+      213: -2066190221666234419
+    second: Sean_hyperplanningue_2
+  - first:
+      213: 5012767125109553532
+    second: Sean_hyperplanningue_3
+  - first:
+      213: -1914655080422876213
+    second: Sean_hyperplanningue_4
+  - first:
+      213: -3352612301704551319
+    second: Sean_hyperplanningue_5
+  - first:
+      213: 5928445861153339465
+    second: Sean_hyperplanningue_6
+  - first:
+      213: -2324267942405898559
+    second: Sean_hyperplanningue_7
+  - first:
+      213: 2676081913270282477
+    second: Sean_hyperplanningue_8
+  - first:
+      213: -3091238295487626060
+    second: Sean_hyperplanningue_9
+  - first:
+      213: -6885025899804475509
+    second: Sean_hyperplanningue_10
+  - first:
+      213: -1400674142610991152
+    second: Sean_hyperplanningue_11
+  - first:
+      213: 9169834387203119388
+    second: Sean_hyperplanningue_12
+  - first:
+      213: -7804866738393143507
+    second: Sean_hyperplanningue_13
+  - first:
+      213: -2944736915141038805
+    second: Sean_hyperplanningue_14
+  - first:
+      213: 2440671639273286554
+    second: Sean_hyperplanningue_15
+  - first:
+      213: 172284733617161544
+    second: Sean_hyperplanningue_16
+  - first:
+      213: -8927939392841795466
+    second: Sean_hyperplanningue_17
+  - first:
+      213: -4176553631817292718
+    second: Sean_hyperplanningue_18
+  - first:
+      213: -659615924591867809
+    second: Sean_hyperplanningue_19
+  - first:
+      213: -2558981418862905953
+    second: Sean_hyperplanningue_20
+  - first:
+      213: 8661339749431653930
+    second: Sean_hyperplanningue_21
+  - first:
+      213: 8345127559784821299
+    second: Sean_hyperplanningue_22
+  - first:
+      213: -3501855477159076923
+    second: Sean_hyperplanningue_23
+  - first:
+      213: -1298802072838881750
+    second: Sean_hyperplanningue_24
+  - first:
+      213: 6925540164223733089
+    second: Sean_hyperplanningue_25
+  - first:
+      213: -1200681742035139993
+    second: Sean_hyperplanningue_26
+  - first:
+      213: 2940258715963136600
+    second: Sean_hyperplanningue_27
+  - first:
+      213: 6491797556795609675
+    second: Sean_hyperplanningue_28
+  - first:
+      213: -3187960073381499284
+    second: Sean_hyperplanningue_29
+  - first:
+      213: 7623258662357178248
+    second: Sean_hyperplanningue_30
+  - first:
+      213: -827490748299673155
+    second: Sean_hyperplanningue_31
+  - first:
+      213: -7421789097977346655
+    second: Sean_hyperplanningue_32
+  - first:
+      213: 4614180439212038455
+    second: Sean_hyperplanningue_33
+  - first:
+      213: -172020893689026489
+    second: Sean_hyperplanningue_34
+  - first:
+      213: 1590101986589721710
+    second: Sean_hyperplanningue_35
+  - first:
+      213: 8726422290487805971
+    second: Sean_hyperplanningue_36
+  - first:
+      213: 8342622006547207530
+    second: Sean_hyperplanningue_37
+  - first:
+      213: 6258366751505026274
+    second: Sean_hyperplanningue_38
+  - first:
+      213: -2192142370987160416
+    second: Sean_hyperplanningue_39
+  - first:
+      213: 1963675535637584832
+    second: Sean_hyperplanningue_40
+  - first:
+      213: 3123248381630266086
+    second: Sean_hyperplanningue_41
+  - first:
+      213: -6716182722743709062
+    second: Sean_hyperplanningue_42
+  - first:
+      213: 395600599806557734
+    second: Sean_hyperplanningue_43
+  - first:
+      213: -8934370369714446426
+    second: Sean_hyperplanningue_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3399
+        width: 350
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be976dbda88d6bc0800000000000000
+      internalID: -3788221431760314698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3397
+        width: 354
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b0eb7e6bfe4b940800000000000000
+      internalID: 5311133429427735297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_2
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3395
+        width: 358
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc237c0fa6353e0800000000000000
+      internalID: -2066190221666234419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_3
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 3393
+        width: 361
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7939e9342de09540800000000000000
+      internalID: 5012767125109553532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_4
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 3391
+        width: 364
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb5fff3957cd65e0800000000000000
+      internalID: -1914655080422876213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_5
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3389
+        width: 367
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964ab4fdfd02971d0800000000000000
+      internalID: -3352612301704551319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_6
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3388
+        width: 370
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948fd28b912164250800000000000000
+      internalID: 5928445861153339465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_7
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 3386
+        width: 373
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7112fe9a8ebfd0800000000000000
+      internalID: -2324267942405898559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_8
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3385
+        width: 376
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a256525a532520800000000000000
+      internalID: 2676081913270282477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_9
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 3384
+        width: 379
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44069f527b915d0800000000000000
+      internalID: -3091238295487626060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2666
+        width: 383
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f3acc2c697370a0800000000000000
+      internalID: -6885025899804475509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2665
+        width: 387
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d893d94ecf8ce0800000000000000
+      internalID: -1400674142610991152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_12
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2665
+        width: 390
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1957629acbc14f70800000000000000
+      internalID: 9169834387203119388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2664
+        width: 393
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27a0daad0b8fa390800000000000000
+      internalID: -7804866738393143507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_14
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2664
+        width: 396
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de908a0613227d0800000000000000
+      internalID: -2944736915141038805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2663
+        width: 399
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2148bce10fd120800000000000000
+      internalID: 2440671639273286554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_16
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 2664
+        width: 402
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845497b6d04146200800000000000000
+      internalID: 172284733617161544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_17
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2663
+        width: 406
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b279ac66991480800000000000000
+      internalID: -8927939392841795466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_18
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 2663
+        width: 409
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254a926a996e906c0800000000000000
+      internalID: -4176553631817292718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_19
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 2663
+        width: 407
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c286bfc298d6f0800000000000000
+      internalID: -659615924591867809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1947
+        width: 404
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95f9d525fbac7cd0800000000000000
+      internalID: -2558981418862905953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1947
+        width: 401
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2638d3cc92433870800000000000000
+      internalID: 8661339749431653930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_22
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1947
+        width: 399
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fb4e1d49dfc370800000000000000
+      internalID: 8345127559784821299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_23
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1946
+        width: 396
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5d254ff8e66fc0800000000000000
+      internalID: -3501855477159076923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_24
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1947
+        width: 393
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb5e6656ab9fde0800000000000000
+      internalID: -1298802072838881750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_25
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1946
+        width: 390
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d814616167c1060800000000000000
+      internalID: 6925540164223733089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_26
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1947
+        width: 388
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c2bd2152565fe0800000000000000
+      internalID: -1200681742035139993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_27
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1947
+        width: 385
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9ab859b5edc820800000000000000
+      internalID: 2940258715963136600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_28
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 1947
+        width: 382
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b421d8e9b7f771a50800000000000000
+      internalID: 6491797556795609675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_29
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1948
+        width: 379
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea7fb243712c3d0800000000000000
+      internalID: -3187960073381499284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1232
+        width: 377
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88718b81d514bc960800000000000000
+      internalID: 7623258662357178248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1232
+        width: 374
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db10da47c892484f0800000000000000
+      internalID: -827490748299673155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1233
+        width: 372
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a581314322800990800000000000000
+      internalID: -7421789097977346655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_33
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1234
+        width: 370
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7391ac899acd80040800000000000000
+      internalID: 4614180439212038455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_34
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1235
+        width: 367
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74868b998ebdc9df0800000000000000
+      internalID: -172020893689026489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_35
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1236
+        width: 364
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c253055d211610800000000000000
+      internalID: 1590101986589721710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_36
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1237
+        width: 361
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3188390b6da7a1970800000000000000
+      internalID: 8726422290487805971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_37
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1239
+        width: 359
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a655a9b8382f6c370800000000000000
+      internalID: 8342622006547207530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_38
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1240
+        width: 356
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8299f66f2ad650800000000000000
+      internalID: 6258366751505026274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_39
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1241
+        width: 353
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac4a38c022f391e0800000000000000
+      internalID: -2192142370987160416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 526
+        width: 350
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb9dc3ee70604b10800000000000000
+      internalID: 1963675535637584832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 527
+        width: 350
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eab26cfad1085b20800000000000000
+      internalID: 3123248381630266086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_42
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 529
+        width: 350
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72de34c5635bc2a0800000000000000
+      internalID: -6716182722743709062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_43
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 531
+        width: 350
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb66846a47d7500800000000000000
+      internalID: 395600599806557734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sean_hyperplanningue_44
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 531
+        width: 350
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af156d2c7db20480800000000000000
+      internalID: -8934370369714446426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sean_hyperplanningue_0: -3788221431760314698
+      Sean_hyperplanningue_1: 5311133429427735297
+      Sean_hyperplanningue_10: -6885025899804475509
+      Sean_hyperplanningue_11: -1400674142610991152
+      Sean_hyperplanningue_12: 9169834387203119388
+      Sean_hyperplanningue_13: -7804866738393143507
+      Sean_hyperplanningue_14: -2944736915141038805
+      Sean_hyperplanningue_15: 2440671639273286554
+      Sean_hyperplanningue_16: 172284733617161544
+      Sean_hyperplanningue_17: -8927939392841795466
+      Sean_hyperplanningue_18: -4176553631817292718
+      Sean_hyperplanningue_19: -659615924591867809
+      Sean_hyperplanningue_2: -2066190221666234419
+      Sean_hyperplanningue_20: -2558981418862905953
+      Sean_hyperplanningue_21: 8661339749431653930
+      Sean_hyperplanningue_22: 8345127559784821299
+      Sean_hyperplanningue_23: -3501855477159076923
+      Sean_hyperplanningue_24: -1298802072838881750
+      Sean_hyperplanningue_25: 6925540164223733089
+      Sean_hyperplanningue_26: -1200681742035139993
+      Sean_hyperplanningue_27: 2940258715963136600
+      Sean_hyperplanningue_28: 6491797556795609675
+      Sean_hyperplanningue_29: -3187960073381499284
+      Sean_hyperplanningue_3: 5012767125109553532
+      Sean_hyperplanningue_30: 7623258662357178248
+      Sean_hyperplanningue_31: -827490748299673155
+      Sean_hyperplanningue_32: -7421789097977346655
+      Sean_hyperplanningue_33: 4614180439212038455
+      Sean_hyperplanningue_34: -172020893689026489
+      Sean_hyperplanningue_35: 1590101986589721710
+      Sean_hyperplanningue_36: 8726422290487805971
+      Sean_hyperplanningue_37: 8342622006547207530
+      Sean_hyperplanningue_38: 6258366751505026274
+      Sean_hyperplanningue_39: -2192142370987160416
+      Sean_hyperplanningue_4: -1914655080422876213
+      Sean_hyperplanningue_40: 1963675535637584832
+      Sean_hyperplanningue_41: 3123248381630266086
+      Sean_hyperplanningue_42: -6716182722743709062
+      Sean_hyperplanningue_43: 395600599806557734
+      Sean_hyperplanningue_44: -8934370369714446426
+      Sean_hyperplanningue_5: -3352612301704551319
+      Sean_hyperplanningue_6: 5928445861153339465
+      Sean_hyperplanningue_7: -2324267942405898559
+      Sean_hyperplanningue_8: 2676081913270282477
+      Sean_hyperplanningue_9: -3091238295487626060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
