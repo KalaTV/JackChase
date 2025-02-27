@@ -140,7 +140,7 @@ public class StopWatch : MonoBehaviour
     {
         leaderboard.Clear();
 
-        for (int i = 0; i < 3; i++) 
+        for (int i = 0; i < 1; i++) 
         {
             if (PlayerPrefs.HasKey($"LeaderboardTime_{i}"))
             {

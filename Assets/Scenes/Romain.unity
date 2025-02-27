@@ -1020,7 +1020,7 @@ Transform:
   m_GameObject: {fileID: 77529520}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.9, y: -3.79, z: 0}
+  m_LocalPosition: {x: 13.9, y: -3.1, z: 0}
   m_LocalScale: {x: 1, y: 0.8882, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3365,7 +3365,7 @@ Transform:
   m_GameObject: {fileID: 323579429}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.8, y: 0.06, z: -10}
+  m_LocalPosition: {x: 4.4, y: 3.3, z: -10}
   m_LocalScale: {x: 1, y: 1.1258725, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4446,7 +4446,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -4521,19 +4521,17 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   followSpeed: 5
-  desiredDistance: 8
+  desiredDistance: 5
   stepReduction: 1
   collectiblesThreshold: 5
-  escapeJumpDistance: 5
   escapeBoostSpeed: 7
   boostedFollowSpeed: 5
-  boostedJumpForce: 20
   obstacleDetectionRange: 2
-  jumpForce: 20
-  wallJumpForce: 15
-  wallJumpDirection: {x: 1, y: 1}
-  wallCheckDistance: 0.5
+  jumpForce: 12
+  maxJumpForce: 25
   jumpCooldown: 0.5
+  fallMultiplier: 10
+  maxVerticalSpeed: 2
 --- !u!114 &414046848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5865,7 +5863,7 @@ Transform:
   m_GameObject: {fileID: 514857206}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.18, y: -0.52, z: 0}
+  m_LocalPosition: {x: 1.15, y: -0.52, z: 0}
   m_LocalScale: {x: 1.6541, y: 1.6541, z: 1.6541}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11343,7 +11341,7 @@ Transform:
   m_GameObject: {fileID: 1011516781}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.65, y: 0, z: 0}
+  m_LocalPosition: {x: 1.12, y: -0.06, z: 0}
   m_LocalScale: {x: 1.6718, y: 1.6718, z: 1.6718}
   m_ConstrainProportionsScale: 0
   m_Children: []
